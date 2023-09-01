@@ -1,0 +1,9 @@
+# Executaives
+*.exe
+*.dll
+**/*.exe
+**/*.dll
+
+# Arquivos de objeto
+*.o
+*.bin
